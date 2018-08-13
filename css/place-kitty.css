@@ -14,14 +14,14 @@
   left: 369px;
 }
 
-#basket {
+#basket img {
   position: absolute;
   z-index: 5;
   top: 291px;
   left: 319px;
 }
 
-#ball {
+#ball + img  {
   position: absolute;
   z-index: 4;
   top: 260px;
